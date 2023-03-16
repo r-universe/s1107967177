@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "dynetNLAResistance"]
+	path = dynetNLAResistance
+	url = https://github.com/s1107967177/dynetnlaresistance
+	shallow = true
+	registered = true
